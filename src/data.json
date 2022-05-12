@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "task": "Give dog a bath",
+        "complete": false,
+        "isDeleted" : false
+    },
+    {
+        "id": 2,
+        "task": "Do laundry",
+        "complete": true,
+        "isDeleted" : false
+    },
+    {
+        "id": 3,
+        "task": "Vacuum floor",
+        "complete": false,
+        "isDeleted" : false
+    },
+    {
+        "id": 4,
+        "task": "Feed cat",
+        "complete": true,
+        "isDeleted" : false
+    },
+    {
+        "id": 5,
+        "task": "Change light bulbs",
+        "complete": false,
+        "isDeleted" : false
+    },
+    {
+        "id": 6,
+        "task": "Read Books",
+        "complete": true,
+        "isDeleted" : true
+    }
+]

@@ -1,0 +1,9 @@
+.completed-list{
+    background-color: #B4FF9F;
+    border: 2px solid rgb(2, 89, 2);
+}
+.completed-list h2{
+    text-align: center;
+    color: rgb(2, 89, 2);
+    margin: 5px;
+}

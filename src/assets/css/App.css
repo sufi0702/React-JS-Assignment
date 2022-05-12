@@ -1,0 +1,77 @@
+body {
+  background-color: #effffd;
+}
+.App {
+  margin: auto;
+}
+.hide {
+  display: none;
+}
+.btn {
+  background-color: #42c2ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  padding: 10px;
+  font-weight: bolder;
+  width: 100px;
+  height: 20%;
+}
+.col1 {
+  margin: auto;
+  width: 95%;
+}
+.col3 {
+  width: 30%;
+  float: left;
+  border-radius: 10px;
+  margin: 5px 21px;
+  padding: 10px;
+  height: 350px;
+}
+div.task {
+  background-color: white;
+  margin: 5px;
+  padding: 8px;
+  border-radius: 10px;
+}
+span {
+  width: 53%;
+  height: 20%;
+  float: left;
+  padding: 4px;
+}
+.action-btn {
+  border: none;
+  background-color: transparent;
+  margin: 4px;
+  padding: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.btn-complete {
+  color: rgb(0, 215, 0);
+}
+.btn-complete:hover{
+  color: green;
+}
+.btn-delete{
+  color: rgb(255, 1, 1);
+}
+.btn-delete:hover{
+  color: rgb(171, 0, 0);
+}
+.btn-uncomplete{
+  color: #ffee00;
+}
+.btn-uncomplete:hover{
+  color: #cbbf19;
+}
+.btn-restore{
+  color: rgb(65, 102, 251);
+}
+.btn-restore:hover{
+  color: blue;
+}

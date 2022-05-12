@@ -1,0 +1,14 @@
+.deleted-list {
+  background-color: rgb(255, 167, 167);
+  border: 2px solid red;
+}
+.deleted-list h2 {
+  color: red;
+  text-align: center;
+}
+div.delete-task span{
+  width: 80%;
+}
+.btn-restore {
+
+}
